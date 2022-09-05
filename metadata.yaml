@@ -1,3 +1,6 @@
 homepage: "https://www.addingwell.com"
 documentation: "https://github.com/addingwell/mediamoov-tag/blob/master/README.md"
 versions:
+  - sha: 9ca7b94748f4adaf4b0ce2081fa4efa98f470a3a
+    changeNotes: Init MediaMoov Tag
+
