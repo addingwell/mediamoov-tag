@@ -2,7 +2,7 @@ homepage: "https://www.addingwell.com"
 documentation: "https://github.com/addingwell/mediamoov-tag/blob/master/README.md"
 versions:
   - sha: 079472f0d1fe2b651dcdd29967bb4e485e9e04d1
-    changeNotes: Fix: Encode URI Component on all items
+    changeNotes: "Fix: Encode URI Component on all items"
 
   - sha: 9ca7b94748f4adaf4b0ce2081fa4efa98f470a3a
     changeNotes: Init MediaMoov Tag
